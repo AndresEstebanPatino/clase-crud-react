@@ -1,0 +1,19 @@
+.contenedor{
+    width: 50%;
+    height: 70vh;
+    border: solid 1px white;
+    margin-top: 20px;
+}
+.contenedor-img{
+    width: 100%;
+    height: 60%;
+}
+
+.contenedor-datos{
+    width: 100%;
+    height: 40%;
+}
+
+.img{
+    width: 30%;
+}
